@@ -9,8 +9,6 @@
 
 This application uses machine learning to predict the potential hazard of Near-Earth Objects (NEOs) based on their physical and orbital characteristics. The predictive models were trained on NASA data from the Center for Near Earth Object Studies (CNEOS) and the NASA/JPL Small-Body Database.
 
-![Screenshot of NEO Predictor](path/to/screenshot.png)
-
 ## 📊 Features
 
 - **Hazard Classification**: Determine if an asteroid is potentially hazardous
